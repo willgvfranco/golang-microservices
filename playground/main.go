@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-
-type Event struct {}
+type Event struct{}
 
 func main() {
 	var creature string = "shark"
@@ -17,5 +16,4 @@ func main() {
 	*pointer = "jellyfish"
 	fmt.Println("*pointer =", *pointer)
 	fmt.Println("creature =", creature)
-	abc := *Event
 }
