@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jun 10 00:40:49 2022
+# Make data base, printed on Fri Jun 10 14:33:06 2022
 
 # Variables
 
@@ -69,7 +69,7 @@ rvm_pretty_print_flag =
 # default
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
-PATH = /home/neus/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/bin/remote-cli:/home/neus/.nvm/versions/node/v12.18.3/bin:/home/neus/.rvm/gems/ruby-2.4.6/bin:/home/neus/.rvm/gems/ruby-2.4.6@global/bin:/usr/share/rvm/rubies/ruby-2.4.6/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Razer Chroma SDK/bin:/mnt/c/Program Files/Razer Chroma SDK/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Users/neus/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/neus/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/usr/share/rvm/bin:/home/neus/.local/share/coursier/bin:./bin:/home/neus/bin:/bin/:/mnt/c/Users/neus/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Windows/System32:/usr/local/go/bin:/home/neus/go/bin
+PATH = /home/neus/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/bin/remote-cli:/home/neus/.nvm/versions/node/v12.18.3/bin:/home/neus/.rvm/gems/ruby-2.4.6/bin:/home/neus/.rvm/gems/ruby-2.4.6@global/bin:/usr/share/rvm/rubies/ruby-2.4.6/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Razer Chroma SDK/bin:/mnt/c/Program Files/Razer Chroma SDK/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Users/neus/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/neus/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/JetBrains/GoLand 2022.1.2/bin:/usr/share/rvm/bin:/home/neus/.local/share/coursier/bin:./bin:/home/neus/bin:/bin/:/mnt/c/Users/neus/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Windows/System32:/usr/local/go/bin:/home/neus/go/bin
 # environment
 LSCOLORS = Gxfxcxdxbxegedabagacad
 # environment
@@ -91,7 +91,7 @@ rvm_gemstone_package_file =
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-b35c0472-5329-4058-9613-21780c4ec45e.sock
+VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-4dc6557c-3731-499d-8e9d-d0d914cd14fe.sock
 # environment
 rvm_alias_expanded = 
 # default
@@ -119,7 +119,7 @@ rvm_docs_type =
 # environment
 PULSE_SERVER = /mnt/wslg/PulseServer
 # environment
-WT_SESSION = 42fcdcae-3104-4a8b-87b3-a1eda67f44a6
+WT_SESSION = 75867196-aa6c-4879-ad16-b7bfc44b945a
 # environment
 GOMODCACHE = /home/neus/go/pkg/mod
 # environment
@@ -267,9 +267,9 @@ rvm_gems_path = /home/neus/.rvm/gems
 
 # Directories
 
-# . (device 2080, inode 1585925): 9 files, no impossibilities.
+# . (device 2080, inode 1585925): 11 files, no impossibilities.
 
-# 9 files, no impossibilities in 1 directories.
+# 11 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -277,9 +277,9 @@ rvm_gems_path = /home/neus/.rvm/gems
 
 # Files
 
- 
 # Not a target:
 all:
+ 
 #  Command line target.
 #  Implicit rule search has been done.
 #  File does not exist.
@@ -320,12 +320,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 17 / storage = 170 B / avg = 10 B
-# current buf: size = 8162 B / used = 170 B / count = 17 / avg = 10 B
+# strcache buffers: 1 (0) / strings = 19 / storage = 187 B / avg = 9 B
+# current buf: size = 8162 B / used = 187 B / count = 19 / avg = 9 B
 
-# strcache performance: lookups = 20 / hit rate = 15%
+# strcache performance: lookups = 22 / hit rate = 13%
 # hash-table stats:
-# Load=17/8192=0%, Rehash=0, Collisions=1/20=5%
-# Finished Make data base on Fri Jun 10 00:40:49 2022
+# Load=19/8192=0%, Rehash=0, Collisions=1/22=5%
+# Finished Make data base on Fri Jun 10 14:33:06 2022
 
  
